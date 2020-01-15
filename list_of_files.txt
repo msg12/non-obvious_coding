@@ -1,0 +1,3 @@
+debug.cpp :
+No need to get everything get printed , to know their values , just use the debug function.
+Currently debug will not do the demanded work for the arrays . Wait for the further updates. 
